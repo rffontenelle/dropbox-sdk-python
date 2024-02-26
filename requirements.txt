@@ -5,7 +5,6 @@ stone >= 2
 # Other dependencies for development
 ply
 pytest
-pytest-runner
 sphinx
 twine
 wheel
