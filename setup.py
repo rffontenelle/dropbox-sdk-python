@@ -31,7 +31,7 @@ install_reqs = [
 ]
 
 setup_requires = [
-    pytest
+    'pytest'
 ]
 
 # WARNING: This imposes limitations on test/requirements.txt such that the
